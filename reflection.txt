@@ -1,0 +1,3 @@
+-to act as a user interface for an operating system, providing a way to interact with the computer by executing commands and scripts. -the echo command is a way to communicate with your Linux terminal. 
+It allows you to send text, variables, and special characters to the standard output.
+ -provides a faster, more efficient, and scriptable way to interact with a computer

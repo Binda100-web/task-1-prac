@@ -40,7 +40,7 @@ Inside the file, type the following:
 #!/bin/bash
 # My first shell script
 
-echo "Welcome to the shell"
+echo echo "Welcome to the shell"
 pwd
 ls
 ```
@@ -60,7 +60,7 @@ Run it:
 
 - Create a file named reflection.txt and answer the following:
 - What is the purpose of a shell?
-- What did you learn by running shell commands?
+- What did you learn by running shell commands?echo
 - How was using the terminal different from clicking through folders?
 
 ### Submission Checklist
